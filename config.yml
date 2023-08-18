@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Shreyash Somvanshi'
-theme = 'PaperMod'
+baseURL : 'http://example.org/'
+languageCode : 'en-us'
+title : 'Shreyash Somvanshi'
+theme : 'PaperMod'
 
 enableRobotsTXT: true
 buildDrafts: false
