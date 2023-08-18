@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ChaninNantasenamat
+  title: ShreyashSomvanshi
   description: "This is the website of Shreyash Somvanshi, Aspiring Data Scientist. "
   keywords: [Blog, Portfolio, Data Science]
   author: Shreyash Somvanshi
@@ -49,30 +49,37 @@ params:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
     subtitle: "This is the website of **Shreyash Somvanshi,  Aspiring Data Scientist**."
-    imageUrl: "images/dp.jpg"
+    imageUrl: "home/dp.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Shreyash Somvanshi"
     buttons:
-      - name: Blogs
-        url: blogs
-      - name: Projects
-        url: projects
+      - name: Resume
+        url: Resume/Resume-Shreyash_Somvanshi.pdf
+      
 
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
-    Content: "This is the website of **Shreyash Somvanshi,  Aspiring Data Scientist."
+    Content: "This is the website of **Shreyash Somvanshi, Aspiring Data Scientist."
 
   socialIcons:
+    - name: email
+      url: "mailto:shreyashsomvanshi03@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/shreyash-somvanshi-859893215"
     - name: medium
-      url: "https://medium.com/@data-professor"
+      url: "https://medium.com/@ShreyashSomvanshi"
     - name: github
       url: "https://github.com/ShreyashSomvanshi"
-    - name: mail
-      url: "mailto:shreyashsomvanshi03@gmail.com"
+    - name: kaggle
+      url: "https://kaggle.com/ShreyashSomvanshi/"
+    - name: machinehack
+      url: "https://machinehack.com/user/63e66c416018ef32de78c4d0"
+    - name: cv
+      url: "https://machinehack.com/user/63e66c416018ef32de78c4d0"
+      
+    
 
   analytics:
     google:
@@ -107,22 +114,48 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 4
-    - identifier: blog
-      name: Blogs
-      url: /blogs/
+    - identifier: home
+      name: Home
+      url: /
       weight: 1
+    
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 2
+
     - identifier: projects
       name: Projects
       url: /projects/
-      weight: 2
-    - identifier: infographics
-      name: Infographics
-      url: /infographics/
       weight: 3
+
+    - identifier: blog
+      name: Blogs
+      url: /blogs/
+      weight: 4
+
+    - identifier: certificates
+      name: Certificates
+      url: /certificates/
+      weight: 5
+
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 6
+
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 7
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 8
+    
+    
+    
     #- identifier: tags
     #  name: tags
     #  url: /tags/
