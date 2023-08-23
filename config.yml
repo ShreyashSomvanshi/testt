@@ -41,7 +41,7 @@ params:
 
   label:
     text: "Shreyash Somvanshi"
-    # icon: "images/coding.jpg"
+    icon: "home/data-science.png"
     iconHeight: 35
 
   # profile-mode
@@ -90,13 +90,13 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
+    # hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
 
   editPost:
-#    URL: "https://github.com/chanin-www/content"
+#    URL: "https://github.com/shreyashsomvanshi/testt/content"
 #    Text: "Suggest Changes" # edit text
     URL: ""
     Text: "" # edit text
@@ -139,10 +139,10 @@ menu:
       url: /certificates/
       weight: 5
 
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 6
+    # - identifier: search
+    #   name: Search
+    #   url: /search
+    #   weight: 6
 
     - identifier: contact
       name: Contact
@@ -174,3 +174,4 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
