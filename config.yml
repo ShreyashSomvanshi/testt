@@ -19,13 +19,12 @@ params:
   title: ShreyashSomvanshi
   description: "This is the website of Shreyash Somvanshi, Aspiring Data Scientist. "
   keywords: [Blog, Portfolio, Data Science]
-  author: Shreyash Somvanshi
+  # author: Shreyash Somvanshi
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -64,21 +63,23 @@ params:
     Content: "This is the website of **Shreyash Somvanshi, Aspiring Data Scientist."
 
   socialIcons:
+    - name: github
+      url: "https://github.com/ShreyashSomvanshi"
     - name: email
       url: "mailto:shreyashsomvanshi03@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/shreyash-somvanshi-859893215"
-    - name: medium
-      url: "https://medium.com/@ShreyashSomvanshi"
-    - name: github
-      url: "https://github.com/ShreyashSomvanshi"
-    - name: kaggle
-      url: "https://kaggle.com/ShreyashSomvanshi/"
     - name: machinehack
       url: "https://machinehack.com/user/63e66c416018ef32de78c4d0"
+    - name: medium
+      url: "https://medium.com/@ShreyashSomvanshi"
+    - name: website
+      url: "https://shreyashsomvanshi.co/"
+    - name: kaggle
+      url: "https://kaggle.com/ShreyashSomvanshi/"
     - name: cv
-      url: "https://machinehack.com/user/63e66c416018ef32de78c4d0"
-      
+      url: "Resume/Resume-Shreyash_Somvanshi.pdf"
+  
     
 
   analytics:
@@ -147,6 +148,7 @@ menu:
     - identifier: contact
       name: Contact
       url: /contact/
+      # url: /contact.html
       weight: 7
 
     - identifier: about

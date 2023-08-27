@@ -1,13 +1,13 @@
 ---
-title: "OpenQuad"
-description: "Open-souce platform for drone automation"
+title: "Course Recommendation System"
+description: "Course Recommendation System"
 dateString: July 2019 - Dec 2019
 draft: false
-tags: ["Drone", "Raspberry Pi", "Python", "Computer Vision", "Automation"]
+tags: ["Python", "recommendation", "system", "project", "streamlit"]
 showToc: false
-weight: 207
+weight: 210
 cover:
-    image: "projects/sample-proj/cover.jpg"
+    # image: "projects/sample-proj/cover.jpg"
 --- 
 ### 🔗 [GitHub](https://github.com/OpenQuad-RMI/openquad)
 

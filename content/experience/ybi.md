@@ -1,12 +1,28 @@
 ---
-title: "ML Intern - Feynn Labs"
-description: "Feynn Labs"
-dateString: Dec 2022 - Feb 2023
+title: "AI and ML Intern"
+description: "YBI Foundation"
+dateString: Nov 2022 - Dec 2022 
 draft: false
-ShowReadingTime: false
 tags: ["Python", "Linux", "Kubernetes", "Docker", "GCP", "Automation", "FastAPI"]
 showToc: false
-weight: 301
+weight: 302
+TocOpen: false
+# draft: false
+hidemeta: false
+comments: true
+# description: "Me"
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+disableHLJS: false
+hideSummary: true
+searchHidden: false
+ShowReadingTime: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 --- 
 
 ### Description
