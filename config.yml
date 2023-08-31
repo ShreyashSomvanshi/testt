@@ -55,8 +55,8 @@ params:
     buttons:
       - name: Resume
         url: Resume/Resume-Shreyash_Somvanshi.pdf
-      
 
+        
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
