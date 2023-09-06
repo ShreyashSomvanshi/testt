@@ -55,7 +55,7 @@ params:
     buttons:
       - name: Resume
         url: Resume/Resume-Shreyash_Somvanshi.pdf
-      
+
 
   # home-info mode
   homeInfoParams:
@@ -157,23 +157,3 @@ menu:
       weight: 8
     
     
-    
-    #- identifier: tags
-    #  name: tags
-    #  url: /tags/
-    #  weight: 4
-
-    #- identifier: example
-    #  name: example.org
-    #  url: https://example.org
-    #  weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
-
