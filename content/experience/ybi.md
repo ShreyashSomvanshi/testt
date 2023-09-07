@@ -1,40 +1,39 @@
 ---
 title: "AI and ML Intern"
 description: "YBI Foundation"
-dateString: Nov 2022 - Dec 2022 
+dateString: Nov 2021 - Jan 2022 
 draft: false
 tags: ["Python", "Linux", "Kubernetes", "Docker", "GCP", "Automation", "FastAPI"]
-showToc: false
+draft: false
 weight: 302
-TocOpen: false
-# draft: false
-hidemeta: false
-comments: true
-# description: "Me"
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: true
-disableHLJS: false
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+# showToc: false
+# weight: 302
+# TocOpen: false
+# # draft: false
+# hidemeta: false
+# comments: true
+# # description: "Me"
+# canonicalURL: "https://canonical.url/to/page"
+# disableHLJS: true # to disable highlightjs
+# disableShare: true
+# disableHLJS: false
+# hideSummary: true
+# searchHidden: false
+# ShowReadingTime: false
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: true
+# ShowWordCount: false
+# ShowRssButtonInSectionTermList: true
+# UseHugoToc: true
 --- 
 
 ### Description
+- Learned the basics of Machine Learning like Supervised, Unsupervised and Reinforcement Learning. 
+- Had hands on experience on Regression Model (used Linear Regression Algorithm, Ridge Regression Algorithm, etc) and Classification Models(used Decision Tree Classifier, Naive-Bayes, SVM, etc) and tried some capstone projects.
 
-- Strategically optimized the product's infrastructure on AWS, resulting in a remarkable cost reduction of over 50% while fortifying network security.
-- Improved the product's availability and fault tolerance through dynamic horizontal scaling on AWS, ensuring uninterrupted service and enhancing user experience.
-- Automated integration testing using PyTest, effectively saving over 4 hours of manual testing time in each sprint.
-- Asynchronously decoupled individual micro-services and introduced dead letter queues (DLQ) to ensure reliable and uninterrupted operation of the product’s pipeline.
-- Developed Python scripts to streamline product installation on customer sites, significantly reducing onboarding time by over 200%.
-- Performed a comprehensive revamp of the backend codebase, improving readability, fixing bugs, and enhancing performance by identifying and resolving bottlenecks.
-- Actively engaged with potential customers as the lead developer, providing technical guidance and support to drive customer success which increased product adoption by over 20%.
-- Led and mentored a team of 3 junior interns in successfully designing, developing, and seamlessly integrating a sophisticated AI pipeline with the product.
-- Building a cloud-native version of the product on Kubernetes with GitOps principles, to facilitate easy deployment and management of multiple instances of the product on the cloud.
+### Projects
+- Boston House Price Prediction
+- Diabetes Disease Prediction
+- Fuel Consumption Prediction
 
 ![](/experience/16bit/img1.jpeg#center)
