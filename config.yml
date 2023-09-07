@@ -40,29 +40,32 @@ params:
 
   label:
     text: "Shreyash Somvanshi"
-    icon: "home/data-science.png"
+    icon: "home/diamond.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of **Shreyash Somvanshi,  Aspiring Data Scientist**."
+    subtitle: "I'm a data enthusiast on a mission to decode the world's complexities through data. Explore my data-driven projects, 
+    dive into the latest trends in Data Science, and connect with me to uncover the incredible potential of this field.
+    Let's turn data into decisions."
     imageUrl: "home/dp.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Shreyash Somvanshi"
     buttons:
       - name: Resume
-        url: Resume/Resume-Shreyash_Somvanshi.pdf
-
+        url: "Resume/Shreyash Somvanshi Resume.pdf"
 
   # home-info mode
-  homeInfoParams:
-    Title: "Welcome! \U0001F44B"
-    Content: "This is the website of **Shreyash Somvanshi, Aspiring Data Scientist."
+  # homeInfoParams:
+  #   Title: "Welcome! \U0001F44B"
+  #   Content: "This is the website of **Shreyash Somvanshi, Aspiring Data Scientist."
 
   socialIcons:
+    - name: website
+      url: "https://shreyashsomvanshi.co/"
     - name: github
       url: "https://github.com/ShreyashSomvanshi"
     - name: email
@@ -73,12 +76,10 @@ params:
       url: "https://machinehack.com/user/63e66c416018ef32de78c4d0"
     - name: medium
       url: "https://medium.com/@ShreyashSomvanshi"
-    - name: website
-      url: "https://shreyashsomvanshi.co/"
     - name: kaggle
       url: "https://kaggle.com/ShreyashSomvanshi/"
     - name: cv
-      url: "Resume/Resume-Shreyash_Somvanshi.pdf"
+      url: "Resume/Shreyash Somvanshi Resume.pdf"
   
     
 
@@ -119,41 +120,42 @@ menu:
       name: Home
       url: /
       weight: 1
+
+    - identifier: about
+      name: About Me!
+      url: /about/
+      weight: 2
     
     - identifier: experience
       name: Experience
       url: /experience/
-      weight: 2
+      weight: 3
 
     - identifier: projects
       name: Projects
       url: /projects/
-      weight: 3
+      weight: 4
 
     - identifier: blog
       name: Blogs
       url: /blogs/
-      weight: 4
+      weight: 5
 
     - identifier: certificates
       name: Certificates
       url: /certificates/
-      weight: 5
+      weight: 6
 
     # - identifier: search
     #   name: Search
     #   url: /search
-    #   weight: 6
+    #   weight: 7
 
     - identifier: contact
       name: Contact
       url: /contact/
       # url: /contact.html
-      weight: 7
-
-    - identifier: about
-      name: About
-      url: /about/
       weight: 8
+
     
     
