@@ -5,7 +5,7 @@ description: "Certificate of R Language Proficiency"
 draft: false
 tags: ["Certificate", "R", "Data"]
 showToc: false
-weight: 2
+weight: 3
 cover:
     image: "certificates/r-cert/R-essentials-cert.jpg"
 --- 

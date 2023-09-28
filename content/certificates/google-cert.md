@@ -5,7 +5,8 @@ description: "Certificate of Google Data Analytics"
 draft: false
 tags: ["Certificate", "Python", "Data"]
 showToc: false
-weight: 1
+weight: 2
 cover:
-    image: "certificates/sample-cert/google_da.jpg"
+    image: "certificates/google-cert/google_da.jpg"
 --- 
+
