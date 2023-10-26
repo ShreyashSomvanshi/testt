@@ -1,6 +1,6 @@
 ---
 title: "Oracle Certified Data Science Professional"
-description: "Certificate of Google Data Analytics"
+description: "Certificate of OCI Data Science"
 # dateString: July 2019 - Dec 2019
 draft: false
 tags: ["Certificate", "Oracle", "Data Science", "OCI", "MLOps"]
