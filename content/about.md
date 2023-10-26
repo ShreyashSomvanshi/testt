@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-date: 2023-09-07T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 # tags: ["Shreyash","About","Me"]

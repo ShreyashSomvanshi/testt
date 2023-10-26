@@ -9,3 +9,9 @@ weight: 211
 cover:
     # image: "projects/sample-proj/cover.jpg"
 --- 
+
+
+### Link to check this deployed project: 
+
+🌐 [https://shreyashsomvanshi-sentiment-analysis-nlp-sa2-v0x309.streamlit.app/](https://shreyashsomvanshi-sentiment-analysis-nlp-sa2-v0x309.streamlit.app/)
+

@@ -18,3 +18,7 @@ The aim of the project is to build an open-source quadcopter platform for resear
 **Raspberry Pi** runs a **ROS** node which communicates with another **ROS** node running on the host PC to transfer videos over Wi-Fi. To make the project open-source, easy to develop, and easily reproducible, the simulation environment setup has been dockerized using docker container. We are currently developing the algorithms and testing them in **Gazebo Simulation**.
 
 ![](/projects/sample-proj/img1.jpg)
+
+### Link to check this deployed project: 
+
+🌐 [https://course-recommendation-system-peqse5prwgkdwcddk5dsac.streamlit.app/](https://course-recommendation-system-peqse5prwgkdwcddk5dsac.streamlit.app/)
